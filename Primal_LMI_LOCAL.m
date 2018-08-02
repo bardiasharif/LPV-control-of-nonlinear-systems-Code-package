@@ -3,7 +3,7 @@
 % LPV synthesis with PILF.  
 % 
 % Inputs : system interconnection (sysic), number of grid points, number of measured outputs,
-% number of control inputs
+% number of control inputs.
 % 
 % reference: A Survey of Linear Parameter-Varying Control
 % Applications Validated by Experiments or
