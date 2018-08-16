@@ -3,9 +3,6 @@
 
 LPV control and full block multipliers: Caresten Scherer
 
-
-
-
 1-  "LMI_Primal_Global.m":
  
 	This function is used for construction of schured version of primal global analysis LMIs as presented in equation 25 of the reference paper. 
