@@ -19,7 +19,7 @@ function [T,delta]   = PSM(Gamma,rho_typical)
 %% Ask the order of trunction from the user based on the singular values
 disp(Sn);
 prompt = 'Specify how many scheduling variables should be kept? ';
-r     =   input(prompt);
+r      =  input(prompt);
 %% construct the truncated matrices
 Sn    =   Sn(1:r,1:r);
 Un    =   Un(:,1:r);
